@@ -34,3 +34,4 @@ spec:
             - name: config-volume
               mountPath: /opt/app-root/src/assets/config.json
               subPath: config.json
+# test
